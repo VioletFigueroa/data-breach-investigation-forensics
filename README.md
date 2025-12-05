@@ -36,7 +36,7 @@ Comprehensive investigation and analysis of a simulated data breach at LifeLabs.
 - Incident response procedures
 
 ## Files Included
-- [LifeLabs Data Breach_ Investigative Report.md](LifeLabs%20Data%20Breach_%20Investigative%20Report.md) - Full investigation report
-- [LifeLabs Data Breach_ Investigative Report.docx](LifeLabs%20Data%20Breach_%20Investigative%20Report.docx) - Report in Word format
-- [lifelabs-data-breach.md](lifelabs-data-breach.md) - Extended documentation
+- [LifeLabs Data Breach_ Investigative Report.md](LifeLabs%20Data%20Breach_%20Investigative%20Report.md) - Full investigation report in Markdown format
+- [LifeLabs Data Breach_ Investigative Report.docx](LifeLabs%20Data%20Breach_%20Investigative%20Report.docx) - Report in Word format for detailed formatting
+- [lifelabs-data-breach.md](lifelabs-data-breach.md) - Extended project documentation and analysis
 - [index.md](index.md) - Project overview and metadata
