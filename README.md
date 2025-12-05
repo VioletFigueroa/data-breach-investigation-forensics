@@ -1,5 +1,14 @@
 # LifeLabs Data Breach Investigation
 
+![GitHub last commit](https://img.shields.io/github/last-commit/VioletFigueroa/data-breach-investigation-forensics?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/VioletFigueroa/data-breach-investigation-forensics?style=flat-square)
+![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)
+![Release](https://img.shields.io/github/v/release/VioletFigueroa/data-breach-investigation-forensics?style=flat-square)
+
+**Quick Links:** [Documentation](README.md) | [Security Policy](SECURITY.md) | [Contributing](CONTRIBUTING.md) | [Release](https://github.com/VioletFigueroa/data-breach-investigation-forensics/releases/tag/v1.0.0)
+
+---
+
 ## Overview
 Comprehensive investigation and analysis of a simulated data breach at LifeLabs. This project demonstrates forensic investigation techniques, breach impact assessment, and recommendations for breach prevention and response.
 
