@@ -139,4 +139,3 @@ Timely, transparent communication during incidents is both a legal requirement a
 
 **Related Skills:** PIPEDA Compliance, Healthcare Security, Governance Auditing, Risk Assessment, Privacy Protection
 
-[← Back to Projects](/projects/)
