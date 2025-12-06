@@ -8,6 +8,15 @@
 
 ---
 
+**How to view artifacts:** Full investigation in `LifeLabs Data Breach_ Investigative Report.md/.docx`; overview in `lifelabs-data-breach.md`.
+
+**Result snapshot:** Reconstructed breach timeline, identified root cause, and outlined remediation and notification steps.
+
+**Quick review:**
+- Docs: `LifeLabs Data Breach_ Investigative Report.md/.docx`
+- Evidence: within the report sections
+- Start with: Executive summary, then root cause and remediation
+
 ## Overview
 Comprehensive investigation and analysis of a simulated data breach at LifeLabs. This project demonstrates forensic investigation techniques, breach impact assessment, and recommendations for breach prevention and response.
 
@@ -42,6 +51,10 @@ Comprehensive investigation and analysis of a simulated data breach at LifeLabs.
 - Network traffic analysis
 - Privacy impact assessment frameworks
 - Incident response procedures
+
+## Lessons Learned
+- Tight logging + access monitoring speeds breach scoping.
+- Pairing technical root cause with notification steps keeps privacy teams aligned.
 
 ## Files Included
 - [LifeLabs Data Breach_ Investigative Report.md](LifeLabs%20Data%20Breach_%20Investigative%20Report.md) - Full investigation report in Markdown format
